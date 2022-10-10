@@ -1,0 +1,8 @@
+# Editor directjres and files
+.idea
+.vscode
+*.suo
+*.jsproj
+*.ntvs*
+*.sin
+*.sw?
